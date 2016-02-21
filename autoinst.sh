@@ -175,7 +175,7 @@ PHPCGI_STARTUP_DESC="Start php-cgi"
 NGINX_STARTUP_DESC="Start nginx"
 LIGHTTPD_STARTUP_DESC="Start lighttpd"
 
-PATH="$PATH:/usr/local/bin"
+PATH="$PATH:/usr/bin"
 
 # Find an echo that supports -e
 echo=echo
